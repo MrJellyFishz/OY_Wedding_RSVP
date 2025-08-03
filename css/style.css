@@ -14,7 +14,7 @@
 }
 
 body {
-  font-family: "Calibri", "Work Sans", Arial, sans-serif;
+  font-family: "Noto Sans Arabic", "Work Sans", Arial, sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.7;
@@ -437,8 +437,8 @@ h1, h2, h3, h4, h5, h6, figure {
     width: 80%;
   }
 }
-#fh5co-event .event-wrap h3,
 #fh5co-event .event-wrap h3 {
+  font-family: "Noto Sans Arabic", "Work Sans", Arial, sans-serif;
   font-size: 20px;
   color: #fff;
   border-bottom: 1px solid rgba(255, 255, 255, 0.5);
@@ -954,6 +954,7 @@ form label {
 .simply-countdown {
   /* The countdown */
   margin-bottom: 2em;
+  margin-top: 15em;
 }
 
 .simply-countdown > .simply-section {
